@@ -1,0 +1,13 @@
+ .App {
+   font-size: 0.7rem;
+   margin-bottom: 2.2rem;
+   --adm-color-primary: #de1c1d;
+ }
+
+ .App a {
+   font-size: 0.7rem;
+ }
+
+ .App input {
+   border: 0;
+ }
